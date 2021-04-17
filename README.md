@@ -2,7 +2,7 @@
 
 Installation instructions:
 
-Navigate to /API folder
+Navigate to /API folder:
 run **npm i**
 run **nodemon npm start**
 
