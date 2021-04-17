@@ -1,6 +1,7 @@
 # Masters_Booking_app
 
 Installation instructions:
+
 Navigate to /API folder
 run **npm i**
 run **nodemon npm start**
